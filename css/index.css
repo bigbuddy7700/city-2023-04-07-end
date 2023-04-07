@@ -139,13 +139,13 @@ body {
     justify-content: space-between;
     margin-top: 135px;
     color: #3A3A3A;
-    padding: 63px 30px;
 }
 
 .section_01 .text_box {
     flex: 1;
     height: 500px;
     background-color: #ddd;
+    padding: 63px 30px;
 }
 
 .section_01 .text_box h2 {
