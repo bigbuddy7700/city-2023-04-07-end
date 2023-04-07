@@ -44,10 +44,8 @@ body {
 }
 
 .header .gnb li a:hover {
-
+    color: orangered;
 }
-
-
 
 .header button {
     margin-left: 55px;
