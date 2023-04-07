@@ -154,13 +154,43 @@ body {
 }
 
 .section_01 .text_box p {
+    margin: 20px 0 70px;
+}
 
-  
+.section_01 .btns {
+    display: flex;
+    gap: 20px;
+}
+
+.section_01 .btns button {
+    width: 160px;
+    height: 50px;
+    text-align: center;
+    background-color: #222;
+    border: 1px solid #222;
+    color: #fff;
+    cursor: pointer;
 }
 
 .section_01 .banner {
     flex: 1;
     height: 500px;
+}
+
+.section_02 {
+    margin-top: 135px;
+}
+
+.section_02 .section_header {
+    position: relative;
+    background-color: #ddd;
+    margin-bottom: 30px;
+}
+
+.section_02 .section_header .btn {
+    position: absolute;
+    top: 0;
+    right: 0;
 }
 
 
